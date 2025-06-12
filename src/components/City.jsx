@@ -31,7 +31,7 @@ function City() {
     <>
       <h1>City {id} </h1>;
       <p>
-        Position: {lat},{lng} {setSearchParams}
+        Position: {lat},{lng}, Function exists: {typeof setSearchParams}
       </p>
     </>
   );
