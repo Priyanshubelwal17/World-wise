@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-06-15T20:51:16.723Z",
+      "notes": "",
+      "position": {
+        "lat": "28.51696944040106",
+        "lng": "77.18994140625"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Phulera",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-06-15T20:54:58.720Z",
+      "notes": "",
+      "position": {
+        "lat": "26.843677401113002",
+        "lng": "75.01464843750001"
+      },
+      "id": 2
+    }
+  ]
 }
