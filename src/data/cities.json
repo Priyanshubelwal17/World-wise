@@ -23,42 +23,6 @@
         "lng": 72.877426
       },
       "id": 10000002
-    },
-    {
-      "cityName": "Bangalore",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-10T10:45:00.000Z",
-      "notes": "Tech Capital of India 💻",
-      "position": {
-        "lat": 12.971599,
-        "lng": 77.594566
-      },
-      "id": 10000003
-    },
-    {
-      "cityName": "Uttrakhand",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-11T14:30:00.000Z",
-      "notes": "City of Dreams 🌆",
-      "position": {
-        "lat": 19.07609,
-        "lng": 72.877426
-      },
-      "id": 1000002
-    },
-    {
-      "cityName": "Chandigarh",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-10T10:45:00.000Z",
-      "notes": "Tech Capital of India 💻",
-      "position": {
-        "lat": 12.971599,
-        "lng": 77.594566
-      },
-      "id": 1000003
     }
   ]
 }

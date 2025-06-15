@@ -44,6 +44,7 @@ function Map() {
     },
     [geolocationPostion]
   );
+  console.log(cities);
 
   return (
     <div className={styles.mapContainer}>
