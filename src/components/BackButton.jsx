@@ -7,7 +7,7 @@ function BackButton() {
     <div>
       <Button
         type="back"
-        onCLick={(e) => {
+        onClick={(e) => {
           e.preventDefault();
           navigate(-1);
         }}
