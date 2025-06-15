@@ -62,11 +62,12 @@ function CitiesProvider({ children }) {
 
       setCities((cities) => cities.filter((city) => city.id !== id));
     } catch {
-      alert("There was an error deleting city...");
+      alert("There was an error loading data...");
     } finally {
       setIsLoading(false);
     }
   }
+
   return (
     <CitiesContext.Provider
       value={{
