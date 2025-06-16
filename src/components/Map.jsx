@@ -11,7 +11,7 @@ import {
   useMapEvents,
 } from "react-leaflet";
 import { useEffect, useState } from "react";
-import { useCities } from "../contexts/CitiesContext";
+import { useCities } from "../contexts/CitiesContexts";
 import Flag from "./Flag";
 import { useNavigate } from "react-router-dom";
 import { useGeolocation } from "../hooks/useGeolocation";
@@ -29,7 +29,7 @@ function Map() {
     getPosition,
   } = useGeolocation();
   const [mapLat, mapLng] = useUrlPosition();
-  // console.log(geolocationPostion);
+
   useEffect(
     function () {
       if (mapLat && mapLng) setMapPosition([mapLat, mapLng]);
@@ -44,7 +44,6 @@ function Map() {
     },
     [geolocationPostion]
   );
-  console.log(cities);
 
   return (
     <div className={styles.mapContainer}>

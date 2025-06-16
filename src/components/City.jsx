@@ -1,7 +1,7 @@
 import styles from "./City.module.css";
 
 import { useParams } from "react-router-dom";
-import { useCities } from "../contexts/CitiesContext";
+import { useCities } from "../contexts/CitiesContexts";
 import { useEffect } from "react";
 import Flag from "./Flag";
 import Spinner from "./Spinner";

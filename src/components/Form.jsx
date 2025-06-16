@@ -9,7 +9,7 @@ import BackButton from "./BackButton";
 import { useUrlPosition } from "../hooks/useUrlPosition";
 import Spinner from "./Spinner";
 import DatePicker from "react-datepicker";
-import { useCities } from "../contexts/CitiesContext";
+import { useCities } from "../contexts/CitiesContexts";
 import Flag from "./Flag";
 import { useNavigate } from "react-router-dom";
 
@@ -31,7 +31,7 @@ function Form() {
 
   const [cityName, setCityName] = useState("");
   const [country, setCountry] = useState("");
-  console.log(country);
+
   const [date, setDate] = useState(new Date());
   const [notes, setNotes] = useState("");
   const [emoji, setEmoji] = useState("");

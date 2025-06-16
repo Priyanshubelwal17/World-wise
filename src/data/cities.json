@@ -13,66 +13,6 @@
       "id": 1
     },
     {
-      "cityName": "Phulera",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-15T20:54:58.720Z",
-      "notes": "",
-      "position": {
-        "lat": "26.843677401113002",
-        "lng": "75.01464843750001"
-      },
-      "id": 2
-    },
-    {
-      "cityName": "Tansen",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-16T07:59:19.172Z",
-      "notes": "",
-      "position": {
-        "lat": "26.115985925333536",
-        "lng": "78.57421875000001"
-      },
-      "id": 3
-    },
-    {
-      "cityName": "Kot Addu",
-      "country": "Pakistan",
-      "emoji": "🇵🇰",
-      "date": "2025-06-16T09:04:23.775Z",
-      "notes": "",
-      "position": {
-        "lat": "30.581179257386985",
-        "lng": "71.10351562500001"
-      },
-      "id": 4
-    },
-    {
-      "cityName": "Luni",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-16T11:01:23.235Z",
-      "notes": "",
-      "position": {
-        "lat": "26.2145910237943",
-        "lng": "72.81738281250001"
-      },
-      "id": 5
-    },
-    {
-      "cityName": "Rangat",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-06-16T11:01:32.485Z",
-      "notes": "",
-      "position": {
-        "lat": "12.425847783029134",
-        "lng": "92.90039062500001"
-      },
-      "id": 6
-    },
-    {
       "cityName": "Huangshan",
       "country": "China",
       "emoji": "🇨🇳",
